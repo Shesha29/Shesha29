@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shesha29
 - 👀 I’m interested in learning web programming and cybersecurity
 - 🌱 I’m currently learning html, css3, javascript, networking and cybersecurity fundamentals and I am loving it!
-- 💞️ I’m looking to collaborate on projects, to have fun, enjoy and improve fast!
+- 💞️ I’m looking to collaborate on projects, to have fun, enjoy and improve my skills!
 - 📫 How to reach me: my email!
 
 <!---
